@@ -1,1 +1,1 @@
-uc test2
+uc uc test2
