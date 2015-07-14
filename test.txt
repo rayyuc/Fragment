@@ -1,3 +1,0 @@
----no more by uc. diffmerge
-final changes by gs
-uc changes 1 test ver 1
